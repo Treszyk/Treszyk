@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Treszyk)
 # Hi, I'm Patryk 🧠
 
 🎓 Applied Computer Science student  
