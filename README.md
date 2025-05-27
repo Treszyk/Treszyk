@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=Treszyk)
 # Hi, I'm Patryk 🧠
 
 🎓 Applied Computer Science student  
@@ -17,5 +17,5 @@
 
 🐰 My profile picture is a pixel bunny I made for a .NET turn-based combat sim.
 
-![Treszyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treszyk&show_icons=true&theme=transparent)
-![](https://komarev.com/ghpvc/?username=Treszyk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
