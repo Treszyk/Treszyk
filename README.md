@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Patryk 🧠
 
-<!--
-**Treszyk/Treszyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Applied Computer Science student  
+💻 Mainly using **Python** and **JavaScript**  
+🔐 Interested in **backend development** and **cryptography**  
+📚 Currently learning **Java**, **Spring Boot**, and **Docker**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects I'm proud of
+
+- 🧮 [Graphing Calculator](https://github.com/Treszyk/Graphing-Calculator) – A website that lets you draw math function graphs in real time, using JavaScript, Canvas, and Math.js.
+- 📦 [MRP Table Generator](https://github.com/Treszyk/MRP-table-generator) – Automates production planning using Excel and Python
+- 🔑 [Password Manager](https://github.com/Treszyk/password-manager-java) – Secure credentials manager using encryption (Java) – *Work in progress*
+- ♟️ [HexChess](https://github.com/Treszyk/HexChess) – A twist on chess with hex tiles, built in Unity (C#)
+
+---
+
+## 🎨 Profile Picture
+
+🐰 My profile picture is a pixel bunny I made for a .NET turn-based combat sim.
+
+---
+
