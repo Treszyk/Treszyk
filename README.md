@@ -4,7 +4,7 @@ Software Developer focused on security and systems engineering.
 
 ---
 
-**[Vaulton Password Manager](https://github.com/Treszyk/vaulton-password-manager)** - Zero-knowledge ecosystem utilizing client-side AES-GCM and Argon2id.
+**[Vaulton Password Manager](https://github.com/Treszyk/vaulton-password-manager)** / **[Vaulton Java](https://github.com/Treszyk/vaulton-java)** - Zero-knowledge ecosystem utilizing client-side AES-GCM and Argon2id.
 - **Status**: Porting backend to Java/Spring Boot for architectural parity.
 - **Workflow**: Feature branches, Pull Requests, and CI via GitHub Actions.
 
