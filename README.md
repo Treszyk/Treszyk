@@ -1,18 +1,34 @@
-![](https://komarev.com/ghpvc/?username=Treszyk)
-# Hi, I'm Patryk 🧠
+Software Developer focused on security and systems engineering.
 
-🎓 Applied Computer Science student  
-💻 Mainly using **Python** and **JavaScript**  
-🔐 Interested in **backend development** and **cryptography**  
-📚 Currently learning **Java**, **Spring Boot**, and **Docker**
+### Languages
 
-## 🔧 Projects I'm proud of
+[<img src="https://skillicons.dev/icons?i=cs,java,ts,js,html,css" />](https://skillicons.dev)
 
-- 🧮 [Graphing Calculator](https://github.com/Treszyk/Graphing-Calculator) – A website that lets you draw math function graphs in real time, using JavaScript, Canvas, and Math.js.
-- 📦 [MRP Table Generator](https://github.com/Treszyk/MRP-table-generator) – Automates production planning using Excel and Python
-- 🔑 [Password Manager](https://github.com/Treszyk/password-manager-java) – Secure credentials manager using encryption (Java) – *Work in progress*
-- ♟️ [HexChess](https://github.com/Treszyk/HexChess) – A twist on chess with hex tiles, built in Unity (C#)
+### Frameworks & Infrastructure
 
-## 🎨 Profile Picture
+[<img src="https://skillicons.dev/icons?i=dotnet,spring,angular,postgres,docker,githubactions" />](https://skillicons.dev)
 
-🐰 My profile picture is a pixel bunny I made for a .NET turn-based combat sim.
+### OS & Tools
+
+[<img src="https://skillicons.dev/icons?i=arch,linux,git,idea,visualstudio,vscode" />](https://skillicons.dev)
+
+---
+
+### Active Engineering
+
+**[Vaulton Password Manager](https://github.com/Treszyk/vaulton-password-manager)**
+Zero-knowledge ecosystem utilizing client-side AES-GCM and Argon2id.
+
+- **Current Status**: Porting the backend to Java / Spring Boot to achieve architectural parity with the original .NET implementation.
+- **Workflow**: Adopting professional standards with feature branches, pull requests, and CI pipelines via GitHub Actions.
+
+---
+
+### Technical Writing
+
+- [KDF Benchmarking: Hardware Bottlenecks and GPU Resistance](https://dev.to/treszyk/architecture-vs-brute-force-what-i-learned-benchmarking-kdfs-for-my-thesis-18bo)
+- [Opaque Identity: Rethinking User Identification](https://dev.to/treszyk/why-do-password-managers-need-your-email-2onj)
+
+### Links
+
+- **Portfolio**: [treszyk.vercel.app](https://treszyk.vercel.app/)
