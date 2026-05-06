@@ -11,5 +11,5 @@ Software Developer focused on security and systems engineering.
 ---
 
 **Technical Writing**
-- [KDF Benchmarking: Hardware Bottlenecks and GPU Resistance](https://dev.to/treszyk/architecture-vs-brute-force-what-i-learned-benchmarking-kdfs-for-my-thesis-3n8b)
-- [Opaque Identity: Rethinking User Identification](https://dev.to/treszyk/why-do-password-managers-need-your-email-3n8b)
+- [KDF Benchmarking: Hardware Bottlenecks and GPU Resistance](https://dev.to/treszyk/architecture-vs-brute-force-what-i-learned-benchmarking-kdfs-for-my-thesis-18bo)
+- [Opaque Identity: Rethinking User Identification](https://dev.to/treszyk/why-do-password-managers-need-your-email-2onj)
